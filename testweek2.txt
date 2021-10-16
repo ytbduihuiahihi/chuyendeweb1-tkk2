@@ -1,2 +1,2 @@
-test week2
-ai dau ma biet
+ tao sua file nay ne
+>>>>>>> week2
